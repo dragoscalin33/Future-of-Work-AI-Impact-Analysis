@@ -1,4 +1,4 @@
-# PROJECT: Global Unemployment Projection due to AGI and ASI Advancement
+# Global Unemployment Projection due to AGI and ASI Advancement
 
 **Current Analysis Date: July 28, 2025 (Taiwan Standard Time)**
 
