@@ -88,6 +88,7 @@ This study aims to answer critical questions that inform public policy, corporat
 
 * **What percentage of the global population could be unemployed by 2040 if there is no effective job reinvention or adaptation policies?**
     * In the base scenario (which assumes no massive adaptation), unemployment could reach approximately **40-50%** by 2040. In the pessimistic scenario, where adaptation is minimal, it could exceed **60%**.
+      
 * **Which sectors of the global economy will be hit hardest by AGI/ASI automation?**
     *  Data suggests sectors like **Administrative Services, Customer Services, and Manufacturing** face the highest direct automation risk due to the repetitive and rule-based nature of many of their tasks.
 * **What types of education and skills could offer greater protection against unemployment in the era of advanced AI?**
@@ -106,3 +107,4 @@ This study aims to answer critical questions that inform public policy, corporat
 ## Contact
 
 Dragos Calin
+https://www.linkedin.com/in/dragos-calin33/
