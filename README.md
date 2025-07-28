@@ -8,7 +8,7 @@ This repository hosts a comprehensive study on the potential impact of Artificia
 
 The rapid advancement of Artificial Intelligence (AI), particularly the projected emergence of Artificial General Intelligence (AGI) around 2030 and Artificial Superintelligence (ASI) by 2045, poses significant questions for the future of work. This study employs a rigorous methodological framework, leveraging simulated data based on industry reports and academic literature, to project global unemployment rates and sectoral impacts under different scenarios. Our analysis indicates a substantial risk to current job structures, with potentially **40-60% of existing jobs facing displacement or profound transformation by 2040-2045** if proactive societal adaptations are not implemented. The study underscores the urgent need for strategic policy-making focused on human-AI coexistence, reskilling, and new economic models.
 
-## 🎯 General Objective
+## General Objective
 
 To project global and/or sectoral unemployment due to the advancement of Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), with estimated dates between 2030 and 2045, using available data and predictive models. This study aims to provide a quantitative outlook on future labor market scenarios and their socio-economic implications.
 
@@ -105,26 +105,6 @@ This study aims to answer critical questions that inform public policy, corporat
 ## In Conclusion:
 
 "As we advance towards a scenario where Artificial General Intelligence (AGI) emerges around 2030 and Artificial Superintelligence (ASI) is established approximately by 2045, our projections, based on the exponential acceleration of automation, indicate a significant and transformative risk to the global labor market. **We estimate that between 40% and 60% of current jobs are at risk of disappearance or profound transformation by 2040-2045, depending on the speed of AI and society's adaptive capacity.** Without active and adaptive policies for reskilling, job reinvention, and robust social support, millions of people could be excluded from the traditional labor system, leading to unprecedented socio-economic challenges. The solution does not lie in halting the unstoppable progress of AI, but in **fundamentally redesigning our society** with a focus on empowering irreplaceable human skills (creativity, ethics, emotional connection, critical thinking, adaptability) and building new economic structures that allow for a beneficial and equitable coexistence between humans and superintelligent machines. Proactive public policy and corporate strategy are crucial to ensure a just and prosperous transition."
-
-## How to Use/Reproduce This Study
-
-This study is provided as a Google Colab Jupyter Notebook, allowing for easy viewing, execution, and modification.
-
-1.  **Access the Notebook:**
-    Click here to open the notebook directly in Google Colab:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_COLAB_NOTEBOOK_NAME.ipynb)
-    *(Remember to replace `YOUR_GITHUB_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_COLAB_NOTEBOOK_NAME.ipynb` with your actual details.)*
-
-2.  **Clone the Repository (Optional):**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
-    ```
-
-3.  **Run Cells in Colab:**
-    * Once opened in Colab, execute the cells sequentially.
-    * Ensure all required libraries (pandas, numpy, matplotlib, seaborn) are installed (Colab typically has these pre-installed).
-
 
 ## Contact
 
