@@ -4,8 +4,6 @@
 
 This repository hosts a comprehensive study on the potential impact of Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI) on global employment. Utilizing a data-driven approach, this project projects unemployment trends across various sectors, offering insights into potential challenges and mitigation strategies as AI capabilities accelerate exponentially.
 
-## Abstract
-
 The rapid advancement of Artificial Intelligence (AI), particularly the projected emergence of Artificial General Intelligence (AGI) around 2030 and Artificial Superintelligence (ASI) by 2045, poses significant questions for the future of work. This study employs a rigorous methodological framework, leveraging simulated data based on industry reports and academic literature, to project global unemployment rates and sectoral impacts under different scenarios. Our analysis indicates a substantial risk to current job structures, with potentially **40-60% of existing jobs facing displacement or profound transformation by 2040-2045** if proactive societal adaptations are not implemented. The study underscores the urgent need for strategic policy-making focused on human-AI coexistence, reskilling, and new economic models.
 
 ## General Objective
