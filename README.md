@@ -93,12 +93,11 @@ This study aims to answer critical questions that inform public policy, corporat
 * **What types of education and skills could offer greater protection against unemployment in the era of advanced AI?**
     *  Future education should focus on inherently human and hard-to-automate skills: **creativity, critical thinking, complex problem-solving, emotional intelligence, ethics, leadership, and human-AI collaboration skills**. Sectors like Arts and Entertainment, Education and Healthcare, and Research and Development (R&D) show lower direct risk in this simulation due to their reliance on these skills.
 * **What public policies and business strategies can mitigate the negative impact of mass unemployment and facilitate a just transition?**
-
-        * **Massive Reskilling Policies:** Large-scale *reskilling* and *upskilling* programs to reorient the workforce towards new emerging roles and sectors (e.g., AI development and management, AI ethics, care economy, creative industries).
-        * **Social Safety Net Models:** Implementation of systems like **Universal Basic Income (UBI)** or guaranteed minimum wages to ensure a dignified standard of living as demand for traditional human labor decreases.
-        * **Investment in "Human-Centric" Sectors:** Fostering and investing in sectors intrinsically dependent on human interaction and creativity, such as personal care, in-person education, arts, and fundamental research.
-        * **Promoting Job-Generating Innovation:** Incentives for the development of new industries and job roles arising from the human-AI symbiosis.
-        * **Regulatory and Ethical Frameworks:** Creation of laws and regulations to guide AI development and implementation responsibly, fairly, and with human well-being at its core.
+    * **Massive Reskilling Policies:** Large-scale *reskilling* and *upskilling* programs to reorient the workforce towards new emerging roles and sectors (e.g., AI development and management, AI ethics, care economy, creative industries).
+    * **Social Safety Net Models:** Implementation of systems like **Universal Basic Income (UBI)** or guaranteed minimum wages to ensure a dignified standard of living as demand for traditional human labor decreases.
+    * **Investment in "Human-Centric" Sectors:** Fostering and investing in sectors intrinsically dependent on human interaction and creativity, such as personal care, in-person education, arts, and fundamental research.
+    * **Promoting Job-Generating Innovation:** Incentives for the development of new industries and job roles arising from the human-AI symbiosis.
+    * **Regulatory and Ethical Frameworks:** Creation of laws and regulations to guide AI development and implementation responsibly, fairly, and with human well-being at its core.
 
 ## In Conclusion:
 
